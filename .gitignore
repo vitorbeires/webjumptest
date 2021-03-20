@@ -63,3 +63,6 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+.prettierrc
+.eslintrc.json
+yarn.lock
