@@ -1,0 +1,12 @@
+{
+  "name": "webjupmtest",
+  "displayName": "webjupmtest",
+  "expo": {
+    "name": "webjupmtest",
+    "slug": "webjupmtest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
